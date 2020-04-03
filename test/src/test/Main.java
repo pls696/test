@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("Hello Word！");
 		System.out.println("Hello Word！");
 		System.out.println("9999999");
+		System.out.println("cs");
 	}
 }
